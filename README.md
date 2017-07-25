@@ -1,6 +1,6 @@
 # ajax.js
 
-> Ultra-simple front-end cross-browser JS library for sending AJAX requests
+> Ultra-simple front-end cross-browser JS library for sending HTTP requests
 
 ## Usage Demos
 
